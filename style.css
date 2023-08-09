@@ -57,6 +57,7 @@ body * {
 
 #profile img {
   width: 112px;
+  height: 112px;
   margin: auto;
   border-radius: 50%;
   border: 1px solid var(--stroke-color);
